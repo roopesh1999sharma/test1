@@ -10,5 +10,5 @@ cmd = "sudo docker rm -f {}".format(cname)
 
 x = subprocess.getoutput(cmd)  
 
-print("location: http://192.168.43.37/cgi-bin/parag.py") 
+print("location: http://192.168.43.37/cgi-bin/main_docker.py") 
 print()
