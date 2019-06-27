@@ -5,7 +5,7 @@ print()
 import cgi
 
 print("""
-<form action=http://192.168.43.37/cgi-bin/new1.py>
+<form action=http://192.168.43.37/cgi-bin/shellinabox.py>
 <table>
 <tr>
 <td>
